@@ -10,6 +10,7 @@ Installation:
 2. git clone https://github.com/dm303102/RetroPie-config-management-script.git
 
 Usage:
+
     sudo ./RPConfig.sh <run option>
 
 Run options are:

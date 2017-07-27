@@ -11,13 +11,21 @@ Installation:
 
 Usage:
 
-    sudo ./RPConfig.sh <run option>
+    #Backup current Retropie configuration:
+    sudo ./RPConfig.sh -s
+    
+    #Copy backed up Retropie configuration to current install:
+    sudo ./RPConfig.sh -r
+    
+    
+    
+    
 
 Run options are:
 
 -s Store current RetroPie configuration
 
--r Read stored configuration to current RetroPie install
+-r Read stored configuration to current RetroPie install(Overwrite prompt will come up)
 
 -c Compare stored configuration and current RetroPie install configuration files
 

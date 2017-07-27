@@ -14,6 +14,7 @@ Usage:
     sudo ./RPConfig.sh <run option>
 
 Run options are:
+
 -s Store current RetroPie configuration
 
 -r Read stored configuration to current RetroPie install

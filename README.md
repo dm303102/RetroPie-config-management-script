@@ -15,7 +15,11 @@ Usage:
 
 Run options are:
 -s Store current RetroPie configuration
+
 -r Read stored configuration to current RetroPie install
+
 -c Compare stored configuration and current RetroPie install configuration files
+
 -x Extract current archived config
+
 -a Archive current stored RetroPie config
